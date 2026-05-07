@@ -1,0 +1,51 @@
+# Geotechnik — Kerpen
+
+> Geotechnical engineering services in Kerpen, Deutschland.
+
+## Services
+- [Anker](https://kerpen.geotechnik.vip/anker/)
+- [Atterberg Grenzen](https://kerpen.geotechnik.vip/atterberg-grenzen/)
+- [Aushub](https://kerpen.geotechnik.vip/aushub/)
+- [Aushub Monitoring](https://kerpen.geotechnik.vip/aushub-monitoring/)
+- [Bodenplatten](https://kerpen.geotechnik.vip/bodenplatten/)
+- [Bodenverbesserung](https://kerpen.geotechnik.vip/bodenverbesserung/)
+- [Boschungsstabilitat](https://kerpen.geotechnik.vip/boschungsstabilitat/)
+- [Cbr Strasse](https://kerpen.geotechnik.vip/cbr-strasse/)
+- [Cpt Versuch](https://kerpen.geotechnik.vip/cpt-versuch/)
+- [Erdbebenisolierung](https://kerpen.geotechnik.vip/erdbebenisolierung/)
+- [Flexibler Belag](https://kerpen.geotechnik.vip/flexibler-belag/)
+- [Fundamente](https://kerpen.geotechnik.vip/fundamente/)
+- [Grundungen](https://kerpen.geotechnik.vip/grundungen/)
+- [Hange](https://kerpen.geotechnik.vip/hange/)
+- [In Situ Durchlassigkeit](https://kerpen.geotechnik.vip/in-situ-durchlassigkeit/)
+- [Injektionen](https://kerpen.geotechnik.vip/injektionen/)
+- [Korngrossenanalyse](https://kerpen.geotechnik.vip/korngrossenanalyse/)
+- [Labor](https://kerpen.geotechnik.vip/labor/)
+- [Labor In Situ](https://kerpen.geotechnik.vip/labor-in-situ/)
+- [Masw](https://kerpen.geotechnik.vip/masw/)
+- [Pfahle](https://kerpen.geotechnik.vip/pfahle/)
+- [Proctor Versuche](https://kerpen.geotechnik.vip/proctor-versuche/)
+- [Ruttelverdichtung](https://kerpen.geotechnik.vip/ruttelverdichtung/)
+- [Sandkegel Dichte](https://kerpen.geotechnik.vip/sandkegel-dichte/)
+- [Schottersaulen](https://kerpen.geotechnik.vip/schottersaulen/)
+- [Schurfgruben](https://kerpen.geotechnik.vip/schurfgruben/)
+- [Seismik](https://kerpen.geotechnik.vip/seismik/)
+- [Seismische Mikrozonierung](https://kerpen.geotechnik.vip/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://kerpen.geotechnik.vip/seismische-refraktion/)
+- [Spt Bohrung](https://kerpen.geotechnik.vip/spt-bohrung/)
+- [Starrer Belag](https://kerpen.geotechnik.vip/starrer-belag/)
+- [Strassenbau](https://kerpen.geotechnik.vip/strassenbau/)
+- [Stutzmauern](https://kerpen.geotechnik.vip/stutzmauern/)
+- [Tiefe Aushube](https://kerpen.geotechnik.vip/tiefe-aushube/)
+- [Triaxialversuch](https://kerpen.geotechnik.vip/triaxialversuch/)
+- [Untersuchung](https://kerpen.geotechnik.vip/untersuchung/)
+- [Verflussigung](https://kerpen.geotechnik.vip/verflussigung/)
+- [Weichbodentunnel](https://kerpen.geotechnik.vip/weichbodentunnel/)
+- [Widerstand](https://kerpen.geotechnik.vip/widerstand/)
+
+## Contact
+- Website: https://kerpen.geotechnik.vip/
+
+## About
+This site provides geotechnical engineering services in Kerpen, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
